@@ -1,0 +1,15 @@
+.imglist img{
+    margin: 20px;
+}
+
+html{
+    position: relative;
+    overflow-x: hidden !important;
+}
+
+footer{
+    width:100vw; 
+    background-color: #071330; 
+    position: absolute;
+    bottom: 0;
+}
